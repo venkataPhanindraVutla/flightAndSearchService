@@ -9,10 +9,10 @@ This service provides flight search functionality and is part of a larger micros
 This project is part of a larger microservices architecture. Each service in the ecosystem plays a crucial role in the overall functionality. Explore the related services:
 
 ### 🔗 [FlightsAndSearchService](https://github.com/venkataPhanindraVutla/flightAndSearchService)
-### 🔗 [EmailReminderService](https://github.com/venkataPhanindraVutla/EmailReminderService)
-### 🔗 [Auth_Service](https://github.com/venkataPhanindraVutla/Auth_Service)
+### 🔗 [EmailService](https://github.com/venkataPhanindraVutla/mailService)
+### 🔗 [Auth_Service](https://github.com/venkataPhanindraVutla/authenticationService)
 ### 🔗 [TicketBookingService](https://github.com/venkataPhanindraVutla/TicketBookingService)
-### 🔗 [API_Gateway](https://github.com/venkataPhanindraVutla/API_Gateway)
+
 
 ## Installation
 
