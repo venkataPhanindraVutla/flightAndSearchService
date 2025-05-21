@@ -11,7 +11,7 @@ This project is part of a larger microservices architecture. Each service in the
 ### 🔗 [FlightsAndSearchService](https://github.com/venkataPhanindraVutla/flightAndSearchService)
 ### 🔗 [EmailService](https://github.com/venkataPhanindraVutla/mailService)
 ### 🔗 [Auth_Service](https://github.com/venkataPhanindraVutla/authenticationService)
-### 🔗 [TicketBookingService](https://github.com/venkataPhanindraVutla/TicketBookingService)
+### 🔗 [TicketBookingService](https://github.com/venkataPhanindraVutla/bookingService)
 
 
 ## Installation
